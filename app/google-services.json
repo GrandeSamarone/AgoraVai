@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1027309317105",
+    "firebase_url": "https://wificity-c89fd.firebaseio.com",
+    "project_id": "wificity-c89fd",
+    "storage_bucket": "wificity-c89fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027309317105:android:8abee988f21836d4",
+        "android_client_info": {
+          "package_name": "com.example.fulanoeciclano.agoravai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027309317105-sak8dvu0trgncqln8ngclo2kk8vo9dep.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fulanoeciclano.agoravai",
+            "certificate_hash": "47830f9f4e8b621667ed6ac25a3cf965dbee377b"
+          }
+        },
+        {
+          "client_id": "1027309317105-uc9qfh4qqlk9daj657aeh8q6mr04ugok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxMb4vmkmkvKLqSKJh_YcjZBxSAwoMrfc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027309317105-uc9qfh4qqlk9daj657aeh8q6mr04ugok.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
